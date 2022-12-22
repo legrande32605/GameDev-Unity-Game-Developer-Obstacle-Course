@@ -19,5 +19,5 @@ Game Loop: Get from A to B
 ## Results of Course Videos
 ### Section 1 - Obstacle Course
 - Part 1: Start and Update   
-[![Start and Update](./Reference%20Images/Thumb%20-%20Start%20and%20Update.png)](./Reference%20Images/Start%20and%20Update.png)
+[![Start and Update](./Reference%20Images/Thumb%20-%20Start%20and%20Update.png)](./Reference%20Images/Start%20and%20Update.PNG)
 
